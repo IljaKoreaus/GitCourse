@@ -1,1 +1,1 @@
-# GitCourse
+# This is a README
